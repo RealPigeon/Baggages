@@ -256,7 +256,7 @@ body {
 .header-top {
     background: rgb(0, 0, 0);
     padding: 10px 0;
-    min-height: 100vh;
+    min-height: 110vh;
     color: #fff
 }
 
@@ -301,14 +301,14 @@ body {
 .items #I2,
 .items #I3 {
     display: inline-block;
+    vertical-align: top;
     width: 300px;
     padding: 8px;
 }
 
 .items p {
-    position: relative;
     font-size: 18px;
-    height: 100px;
+    margin-bottom: 15px;
 }
 
 .header-bottom {
