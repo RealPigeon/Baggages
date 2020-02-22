@@ -464,6 +464,7 @@ body {
 .main .wrap {
     max-width: 1000px;
     display: block;
+    text-align: center;
 }
 
 .lsidebar {
@@ -580,18 +581,18 @@ p.num {
     margin-top: -20px;
 }
 
-.goods:first-child {
-    margin-left: 0;
+.box1 {
+    text-align: center;
 }
 
 .goods {
     display: block;
     float: left;
-    margin: 1% 0 1% 3.6%;
+    margin: 1%;
 }
 
 .goods {
-    width: 30.7%;
+    width: 31%;
     border: 1px solid #DDD;
 }
 
